@@ -1,2 +1,2 @@
-# Loca-lStorage-Counter
+# Local-Storage-Counter
 Counter
